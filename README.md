@@ -7,8 +7,10 @@
  - 截图，发送给电脑，放置在根目录（调试的话在im_test），替换掉原本的in.jpg
  - 运行本程序，输入12位数，例如0表示不变，1表示好人等，12位对应12个玩家
  - 输出图片在根目录out.png里
- 
+
+输入图片：
 ![in.jpg](https://github.com/alittelboy/ttlrs-cheater/blob/master/imtest/in.jpg)
+输出：000000110000
 ![输入000123000234的out](https://github.com/alittelboy/ttlrs-cheater/blob/master/imtest/out.png)
 
 注意：
