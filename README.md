@@ -8,8 +8,8 @@
  - 运行本程序，输入12位数，例如0表示不变，1表示好人等，12位对应12个玩家
  - 输出图片在根目录out.png里
  
-![in.jpg](https://github.com/alittelboy/ttlrs-cheater/blob/master/im_test/in.jpg)
-![输入000123000234的out](https://github.com/alittelboy/ttlrs-cheater/blob/master/im_test/out.png)
+![in.jpg](https://github.com/alittelboy/ttlrs-cheater/blob/master/imtest/in.jpg)
+![输入000123000234的out](https://github.com/alittelboy/ttlrs-cheater/blob/master/imtest/out.png)
 
 注意：
  - 由于每个手机分辨率不同，如果你的分辨率和我不同，你需要自行截狼人、预言家等图片，替换掉本程序里的图片
